@@ -29,6 +29,24 @@ heterogeneous and are either positive or negative, or neutral in some cases.
 
 
 ### 🔗 Detail Project Documentation
-* [Report](https://docs.google.com/document/d/12v7FRgudIDFt9vCmVq4Ay8C7hR3zTd1xsU_lwS1azaQQ/edit?usp=sharing)
+* [Report](https://docs.google.com/document/d/1qXzAvKLj9Kf9adqtdZwBLfjkn98nCZWYwe_u8wiwhmc/edit?usp=sharing)
 
 ## 📱 Screenshots
+
+![1](https://res.cloudinary.com/durxdahel/image/upload/v1675965985/Project%20Snapshots/Group-12_NLP_Project_00001_krfovl.jpg)![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965988/Project%20Snapshots/Group-12_NLP_Project_00002_nfdap2.jpg)![3](https://res.cloudinary.com/durxdahel/image/upload/v1675965988/Project%20Snapshots/Group-12_NLP_Project_00003_bn8vqc.jpg)
+	![8](https://res.cloudinary.com/durxdahel/image/upload/v1675965989/Project%20Snapshots/Group-12_NLP_Project_00008_oivmu7.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965992/Project%20Snapshots/Group-12_NLP_Project_00009_tsy4cf.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965990/Project%20Snapshots/Group-12_NLP_Project_00010_awz7ns.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965991/Project%20Snapshots/Group-12_NLP_Project_00011_dtc51t.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965992/Project%20Snapshots/Group-12_NLP_Project_00012_p3yos6.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965994/Project%20Snapshots/Group-12_NLP_Project_00013_h721lg.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965991/Project%20Snapshots/Group-12_NLP_Project_00014_cqp4f3.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965994/Project%20Snapshots/Group-12_NLP_Project_00015_vxywyc.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965993/Project%20Snapshots/Group-12_NLP_Project_00016_hucfwf.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965994/Project%20Snapshots/Group-12_NLP_Project_00017_r4gvae.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965997/Project%20Snapshots/Group-12_NLP_Project_00019_q7lclb.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965996/Project%20Snapshots/Group-12_NLP_Project_00020_heum56.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965996/Project%20Snapshots/Group-12_NLP_Project_00021_tlafpw.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965998/Project%20Snapshots/Group-12_NLP_Project_00022_cqn6hx.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965999/Project%20Snapshots/Group-12_NLP_Project_00023_b2ifwh.jpg)
+	![enter image description here](https://res.cloudinary.com/durxdahel/image/upload/v1675965996/Project%20Snapshots/Group-12_NLP_Project_00025_bezq8l.jpg)
